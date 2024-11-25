@@ -1,0 +1,99 @@
+ 
+
+ .imagehome{
+  justify-content: end;
+  margin-top: 50px ;
+  width:fit-content;
+}
+
+ .mjs{
+   border: 2px solid;
+   /* width: fit-content; */
+   justify-content: center;
+   margin-left: 0 px;
+   font-size: small;
+   background-color:yellow;
+   font-family: "Sofia", sans-serif;
+   text-align: right;
+   padding-right: 100px;
+   padding-bottom: 20px;
+
+ }
+ .ab{
+  margin-top: 10px;
+  border: 2px transparent;
+  width: fit-content;
+  justify-content: center;
+  margin-left: 500px;
+  
+  
+}
+
+.abo{
+  margin-top: 50px;
+  border-color: blue;
+  
+  background-color: aliceblue;
+}
+.cont{
+  text-align: center;
+  border:2px solid;
+  background-color:lightcoral;
+
+}
+.estimate {
+  font-size:medium;
+  border: 2px solid;
+  margin-right: 900px;
+  text-align: center;
+  /* background-color: yellow; */
+  
+
+} 
+.formcontact{
+  /* text-align: center; */
+  /* border: 2px solid; */
+  width: 500px;
+  padding-bottom: 200px;
+  margin-left: 700px;
+  
+  /* background-color: white;
+   */
+}
+.styled {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgba(220, 0, 0, 1);
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(0, 0, 0, 0)
+  );
+  box-shadow:
+    inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.styled:hover {
+  background-color:yellow;
+}
+
+.styled:active {
+  box-shadow:
+    inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+    inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+.navbar{
+  border:2px solid;
+}
+.engin{
+  background-color: black;
+}
+  
