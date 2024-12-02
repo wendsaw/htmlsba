@@ -1,13 +1,15 @@
  
 
  .imagehome{
-  justify-content: end;
-  margin-top: 50px ;
-  width:fit-content;
+  /* justify-content: end; */
+  /* margin-top: 50px ; */
+  /* width:500px; */
+  margin-bottom: 100px;
+  padding-right: 600px;
 }
 
  .mjs{
-   border: 2px solid;
+   border: 2px solid;git 
    /* width: fit-content; */
    justify-content: center;
    margin-left: 0 px;
